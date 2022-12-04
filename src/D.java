@@ -11,7 +11,7 @@ public class D {
         System.out.println("Assinatura método MD2");
     }
 
-    public void MD3(){
-        System.out.println("Método MD3");
+    public void MD4(){
+        System.out.println("Método MD4");
     }
 }
