@@ -31,4 +31,8 @@ public class B{
   
   }
 
+  public void MB3(){
+    System.out.println("Método MB3");
+  }
+
 }
