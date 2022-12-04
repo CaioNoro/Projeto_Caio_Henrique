@@ -1,4 +1,4 @@
-Public class A{
+public class A{
   
   private int A1;
   private float A2;
@@ -15,11 +15,11 @@ Public class A{
     this.A2 = A2;
   }
   
-  public void getA1(){
+  public int getA1(){
     return A1;
   }
   
-  public void getA2(){
+  public float getA2(){
     return A2;
   }
   
@@ -31,4 +31,7 @@ Public class A{
   
   }
 
+  public void MA3(){
+    System.out.println("Alteração a classe A partir do clone");
+  }
 }
