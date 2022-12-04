@@ -1,4 +1,4 @@
-Public class B{
+public class B{
   
   private int B1;
   private float B2;
@@ -15,11 +15,11 @@ Public class B{
     this.B2 = B2;
   }
   
-  public void getB1(){
+  public int getB1(){
     return B1;
   }
   
-  public void getB2(){
+  public float getB2(){
     return B2;
   }
   
